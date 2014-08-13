@@ -8,14 +8,14 @@ To create a terminal-based student directory that can list all the students in o
 Requirements
 ------------
 It should: 
-1. Show the list of all students ordered by name and grouped by cohort.
-2. Add new students by asking the user to input the names
-3. Show information about a given student
-4. Add information related to a particular student (e.g. hobbies)
-5. Have an interactive menu to ask the user what he or she would like to do
-6. Display aggregate info (statistics)
-7. Save this data to a file
-8. Load it from the file
+* Show the list of all students ordered by name and grouped by cohort.
+* Add new students by asking the user to input the names
+* Show information about a given student
+* Add information related to a particular student (e.g. hobbies)
+* Have an interactive menu to ask the user what he or she would like to do
+* Display aggregate info (statistics)
+* Save this data to a file
+* Load it from the file
 
 Technical configuration
 -----------------------
